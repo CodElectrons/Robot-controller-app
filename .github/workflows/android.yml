@@ -31,4 +31,3 @@ jobs:
         with:
           name: ESP32CarControlApp-APK
           path: app/build/outputs/apk/debug/app-debug.apk
-
